@@ -19,13 +19,16 @@ It is designed with a focus on **information integrity**, and can be extended fo
 
 
 ### 🔹 Home Interface
-![Home UI](images/home.png)
+![Home UI](<img width="1920" height="1020" alt="home" src="https://github.com/user-attachments/assets/4e405176-5d10-4617-8b51-0fe18b73acce" />
+)
 
 ### 🔹 Prediction Result
-![Prediction](images/result.png)
+![Prediction](<img width="1920" height="1020" alt="result" src="https://github.com/user-attachments/assets/89693957-5d00-4b42-a90d-af665e55218e" />
+)
 
 ### 🔹 Confidence & Explanation
-![Confidence](images/confidence.png)
+![Confidence](<img width="1920" height="1020" alt="confidence" src="https://github.com/user-attachments/assets/0653931e-0273-40d8-8336-121a87133244" />
+)
 
 > 📌 Add your screenshots inside an `images/` folder in the repository
 
