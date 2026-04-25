@@ -19,15 +19,15 @@ It is designed with a focus on **information integrity**, and can be extended fo
 
 
 ### 🔹 Home Interface
-![Home UI](<img width="1920" height="1020" alt="home" src="https://github.com/user-attachments/assets/4e405176-5d10-4617-8b51-0fe18b73acce" />
+![Home UI](<img width="1920" height="1020" alt="home" src="https://github.com/user-attachments/assets/3c5553f5-6b99-4634-8a1c-2421520ff29e" />
 )
 
 ### 🔹 Prediction Result
-![Prediction](<img width="1920" height="1020" alt="result" src="https://github.com/user-attachments/assets/89693957-5d00-4b42-a90d-af665e55218e" />
+![Prediction](<img width="1920" height="1020" alt="result" src="https://github.com/user-attachments/assets/24a6e5cc-8cd8-48d2-9828-b4a23a44051e" />
 )
 
 ### 🔹 Confidence & Explanation
-![Confidence](<img width="1920" height="1020" alt="confidence" src="https://github.com/user-attachments/assets/0653931e-0273-40d8-8336-121a87133244" />
+![Confidence](<img width="1920" height="1020" alt="confidence" src="https://github.com/user-attachments/assets/cda3d98d-51d2-4a5d-aeaf-66e527cac1b7" />
 )
 
 > 📌 Add your screenshots inside an `images/` folder in the repository
